@@ -15,26 +15,26 @@ Prova Store lets users browse hundreds of real products, filter by category, sea
     <tr align="center">
     <td align="center">
     <h3>Desktop View</h3>
-    <a href="https://github.com/Parvaneh-Yaghoubi/product-store/blob/main/public/screenshot-desktop-dark.png">
-    <img src="https://raw.githubusercontent.com/Parvaneh-Yaghoubi/product-store/main/public/screenshot-desktop-dark.png" height=200px>
+    <a href="https://github.com/parvanehyaghoubi/ProvaStore/blob/main/public/screenshot-desktop-dark.png">
+    <img src="https://raw.githubusercontent.com/parvanehyaghoubi/ProvaStore/main/public/screenshot-desktop-dark.png" height=200px>
     </a>
 </td>
       <td align="center">
     <h3>Desktop View</h3>
-    <a href="https://github.com/Parvaneh-Yaghoubi/product-store/blob/main/public/screenshot-desktop-light.png">
-    <img src="https://raw.githubusercontent.com/Parvaneh-Yaghoubi/product-store/main/public/screenshot-desktop-light.png" height=200px>
+    <a href="https://github.com/parvanehyaghoubi/ProvaStore/blob/main/public/screenshot-desktop-light.png">
+    <img src="https://raw.githubusercontent.com/parvanehyaghoubi/ProvaStore/main/public/screenshot-desktop-light.png" height=200px>
     </a>
 </td>
 <td  align="center">
     <h3>Mobile View</h3>
-    <a href="https://github.com/Parvaneh-Yaghoubi/product-store/blob/main/public/screenshot-mobile-dark.png">
-    <img src="https://raw.githubusercontent.com/Parvaneh-Yaghoubi/product-store/main/public/screenshot-mobile-dark.png" height=200px>
+    <a href="https://github.com/parvanehyaghoubi/ProvaStore/blob/main/public/screenshot-mobile-dark.png">
+    <img src="https://raw.githubusercontent.com/parvanehyaghoubi/ProvaStore/main/public/screenshot-mobile-dark.png" height=200px>
     </a>
     </td>
       <td  align="center">
     <h3>Mobile View</h3>
-    <a href="https://github.com/Parvaneh-Yaghoubi/product-store/blob/main/public/screenshot-mobile-light.png">
-    <img src="https://raw.githubusercontent.com/Parvaneh-Yaghoubi/product-store/main/public/screenshot-mobile-light.png" height=200px>
+    <a href="https://github.com/parvanehyaghoubi/ProvaStore/blob/main/public/screenshot-mobile-light.png">
+    <img src="https://raw.githubusercontent.com/parvanehyaghoubi/ProvaStore/main/public/screenshot-mobile-light.png" height=200px>
     </a>
     </td>
     <tr>
@@ -252,7 +252,7 @@ For any inquiries, please contact:
 ## Links
 
 ### Parvaneh Yaghoubi
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://parvaneh-yaghoubi.github.io/Portfolio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-three-flax-hqnvbkqkq6.vercel.app/)
 
 [![linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvaneh-yaghoubi-54362620b)
 
